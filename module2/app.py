@@ -7,6 +7,21 @@ WEEKDAYS_TUPLE = ('понедельника', 'вторника', 'среды', 
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
+# storage заполнена изначально как сказано в практике 3 модуля
+
+storage = {
+    2020: {
+        11: 13000,
+    },
+    2022: {
+        10: 3000,
+        12: 25000
+    },
+    2023: {
+        12: 5000,
+    }
+}
+
 app = Flask(__name__)
 
 
@@ -44,6 +59,39 @@ def file_viewer(size, relative_path):
         symbols = file.read(size)
 
     return f"<b>{abs_path}</b> {size}<br>{symbols}"
+
+
+@app.route("/add/<string:date>/<int:expense>")
+def save_wastes(date, expense):
+    try:
+        year = int(date[0:4])
+        month = int(date[4:6])
+    except Exception:
+        return f"Указаны неверные данные"
+    if month <= 12:
+        storage.setdefault(year, {}).setdefault(month, 0)
+        storage[year][month] += expense
+        return f"Ваша трата записана"
+    else:
+        return f"Указаны неверные данные"
+
+
+@app.route("/calculate/<int:year>")
+def calculate_by_year(year):
+    try:
+        total = sum(storage[year].values())
+        return f"Сумма ваших трат за {year} год составляет: {total} у.е."
+    except KeyError:
+        return f"За {year} вы пока ничего не потратили"
+
+
+@app.route("/calculate/<int:year>/<int:month>")
+def calculate_by_month(year, month):
+    try:
+        total = storage[year][month]
+        return f"Сумма ваших трат в {month} месяце {year} года составляет: {total} у.е"
+    except KeyError:
+        return f"В этом месяце {year} года вы пока ничего не потратили"
 
 
 if __name__ == '__main__':
