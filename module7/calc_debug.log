@@ -1,0 +1,184 @@
+INFO | app | 2023-04-03 22:28:14,848 | 28 | Sum: 3
+INFO | app | 2023-04-03 22:28:14,848 | 30 | Minus: -1
+INFO | app | 2023-04-03 22:28:14,849 | 32 | Multiple: 2
+INFO | app | 2023-04-03 22:28:14,849 | 34 | Division: 0.5
+INFO | app | 2023-04-03 22:39:34,178 | 30 | Sum: 3
+INFO | app | 2023-04-03 22:39:34,178 | 32 | Minus: -1
+INFO | app | 2023-04-03 22:39:34,178 | 34 | Multiple: 2
+INFO | app | 2023-04-03 22:39:34,179 | 36 | Division: 0.5
+INFO | app | 2023-04-03 22:39:56,424 | 30 | Sum: 3
+INFO | app | 2023-04-03 22:39:56,424 | 32 | Minus: -1
+INFO | app | 2023-04-03 22:39:56,425 | 34 | Multiple: 2
+INFO | app | 2023-04-03 22:39:56,425 | 36 | Division: 0.5
+INFO | app | 2023-04-03 22:40:14,770 | 30 | Sum: 3
+INFO | app | 2023-04-03 22:40:14,770 | 32 | Minus: -1
+INFO | app | 2023-04-03 22:40:14,771 | 34 | Multiple: 2
+INFO | app | 2023-04-03 22:40:14,771 | 36 | Division: 0.5
+INFO | app | 2023-04-03 22:41:05,967 | 30 | Sum: 3
+INFO | app | 2023-04-03 22:41:05,968 | 32 | Minus: -1
+INFO | app | 2023-04-03 22:41:05,968 | 34 | Multiple: 2
+INFO | app | 2023-04-03 22:41:05,969 | 36 | Division: 0.5
+INFO | app | 2023-04-03 22:44:07,320 | 32 | Sum: 3
+INFO | app | 2023-04-03 22:44:07,320 | 34 | Minus: -1
+INFO | app | 2023-04-03 22:44:07,321 | 36 | Multiple: 2
+INFO | app | 2023-04-03 22:44:07,321 | 38 | Division: 0.5
+INFO | app | 2023-04-03 22:47:10,006 | 35 | Sum: 3
+INFO | app | 2023-04-03 22:47:10,006 | 37 | Minus: -1
+INFO | app | 2023-04-03 22:47:10,006 | 39 | Multiple: 2
+INFO | app | 2023-04-03 22:47:10,007 | 41 | Division: 0.5
+INFO | app | 2023-04-03 22:55:36,865 | 35 | Sum: 3
+INFO | app | 2023-04-03 22:55:36,866 | 37 | Minus: -1
+INFO | app | 2023-04-03 22:55:36,866 | 39 | Multiple: 2
+INFO | app | 2023-04-03 22:55:36,866 | 41 | Division: 0.5
+INFO | app | 2023-04-03 22:55:56,305 | 35 | Sum: 3
+INFO | app | 2023-04-03 22:55:56,306 | 37 | Minus: -1
+INFO | app | 2023-04-03 22:55:56,306 | 39 | Multiple: 2
+INFO | app | 2023-04-03 22:55:56,306 | 41 | Division: 0.5
+INFO | app | 2023-04-03 22:57:05,654 | 35 | Sum: 3
+INFO | app | 2023-04-03 22:57:05,654 | 37 | Minus: -1
+INFO | app | 2023-04-03 22:57:05,655 | 39 | Multiple: 2
+INFO | app | 2023-04-03 22:57:05,655 | 41 | Division: 0.5
+INFO | app | 2023-04-03 22:57:45,283 | 35 | Sum: 3
+INFO | app | 2023-04-03 22:57:45,283 | 37 | Minus: -1
+INFO | app | 2023-04-03 22:57:45,284 | 39 | Multiple: 2
+INFO | app | 2023-04-03 22:57:45,284 | 41 | Division: 0.5
+INFO | app | 2023-04-03 23:16:45,080 | 35 | Sum: 3
+INFO | app | 2023-04-03 23:16:45,080 | 37 | Minus: -1
+INFO | app | 2023-04-03 23:16:45,080 | 39 | Multiple: 2
+INFO | app | 2023-04-03 23:16:45,081 | 41 | Division: 0.5
+INFO | app | 2023-04-03 23:17:35,352 | 35 | Sum: 3
+INFO | app | 2023-04-03 23:17:35,353 | 37 | Minus: -1
+INFO | app | 2023-04-03 23:17:35,353 | 39 | Multiple: 2
+INFO | app | 2023-04-03 23:17:35,353 | 41 | Division: 0.5
+INFO | app.save_logs | 2023-04-03 23:18:48,742 | 47 | start_calculating 1 and 2
+INFO | app | 2023-04-03 23:18:50,875 | 37 | Sum: 3
+INFO | app | 2023-04-03 23:18:50,875 | 39 | Minus: -1
+INFO | app | 2023-04-03 23:18:50,876 | 41 | Multiple: 2
+INFO | app | 2023-04-03 23:18:50,876 | 43 | Division: 0.5
+INFO | app.save_logs | 2023-04-03 23:20:29,155 | 47 | start_calculating 1 and 2
+INFO | app | 2023-04-03 23:20:31,260 | 37 | Sum: 3
+INFO | app | 2023-04-03 23:20:31,261 | 39 | Minus: -1
+INFO | app | 2023-04-03 23:20:31,261 | 41 | Multiple: 2
+INFO | app | 2023-04-03 23:20:31,261 | 43 | Division: 0.5
+INFO | app.save_logs | 2023-04-03 23:29:28,543 | 47 | start_calculating 1 and 2
+INFO | app | 2023-04-03 23:29:28,622 | 37 | Sum: 3
+INFO | app | 2023-04-03 23:29:28,622 | 39 | Minus: -1
+INFO | app | 2023-04-03 23:29:28,622 | 41 | Multiple: 2
+INFO | app | 2023-04-03 23:29:28,623 | 43 | Division: 0.5
+INFO | app.save_logs | 2023-04-03 23:29:57,782 | 47 | start_calculating 1 and 2
+INFO | app | 2023-04-03 23:29:57,808 | 37 | Sum: 3
+INFO | app | 2023-04-03 23:29:57,808 | 39 | Minus: -1
+INFO | app | 2023-04-03 23:29:57,809 | 41 | Multiple: 2
+INFO | app | 2023-04-03 23:29:57,809 | 43 | Division: 0.5
+INFO | app.save_logs | 2023-04-03 23:30:42,802 | 47 | start_calculating 1 and 2
+INFO | app | 2023-04-03 23:30:42,828 | 37 | Sum: 3
+INFO | app | 2023-04-03 23:30:42,828 | 39 | Minus: -1
+INFO | app | 2023-04-03 23:30:42,829 | 41 | Multiple: 2
+INFO | app | 2023-04-03 23:30:42,829 | 43 | Division: 0.5
+INFO | app.save_logs | 2023-04-03 23:30:57,271 | 47 | start_calculating 1 and 2
+INFO | app | 2023-04-03 23:30:57,296 | 37 | Sum: 3
+INFO | app | 2023-04-03 23:30:57,296 | 39 | Minus: -1
+INFO | app | 2023-04-03 23:30:57,296 | 41 | Multiple: 2
+INFO | app | 2023-04-03 23:30:57,297 | 43 | Division: 0.5
+INFO | app.save_logs | 2023-04-03 23:34:10,637 | 47 | start_calculating 1 and 2
+INFO | app | 2023-04-03 23:34:10,664 | 37 | Sum: 3
+INFO | app | 2023-04-03 23:34:10,665 | 39 | Minus: -1
+INFO | app | 2023-04-03 23:34:10,665 | 41 | Multiple: 2
+INFO | app | 2023-04-03 23:34:10,665 | 43 | Division: 0.5
+INFO | app.save_logs | 2023-04-03 23:34:50,659 | 47 | start_calculating 1 and 2
+INFO | app | 2023-04-03 23:34:50,695 | 37 | Sum: 3
+INFO | app | 2023-04-03 23:34:50,695 | 39 | Minus: -1
+INFO | app | 2023-04-03 23:34:50,695 | 41 | Multiple: 2
+INFO | app | 2023-04-03 23:34:50,695 | 43 | Division: 0.5
+INFO | app.save_logs | 2023-04-03 23:35:17,106 | 47 | start_calculating 1 and 2
+INFO | app | 2023-04-03 23:35:17,133 | 37 | Sum: 3
+INFO | app | 2023-04-03 23:35:17,133 | 39 | Minus: -1
+INFO | app | 2023-04-03 23:35:17,133 | 41 | Multiple: 2
+INFO | app | 2023-04-03 23:35:17,134 | 43 | Division: 0.5
+INFO | app.save_logs | 2023-04-03 23:35:42,657 | 47 | start_calculating 1 and 2
+INFO | app | 2023-04-03 23:35:42,686 | 37 | Sum: 3
+INFO | app | 2023-04-03 23:35:42,686 | 39 | Minus: -1
+INFO | app | 2023-04-03 23:35:42,687 | 41 | Multiple: 2
+INFO | app | 2023-04-03 23:35:42,687 | 43 | Division: 0.5
+INFO | app.save_logs | 2023-04-03 23:35:45,914 | 47 | start_calculating 1 and 2
+INFO | app | 2023-04-03 23:35:45,941 | 37 | Sum: 3
+INFO | app | 2023-04-03 23:35:45,941 | 39 | Minus: -1
+INFO | app | 2023-04-03 23:35:45,941 | 41 | Multiple: 2
+INFO | app | 2023-04-03 23:35:45,941 | 43 | Division: 0.5
+INFO | app.save_logs | 2023-04-03 23:35:47,867 | 47 | start_calculating 1 and 2
+INFO | app | 2023-04-03 23:35:47,893 | 37 | Sum: 3
+INFO | app | 2023-04-03 23:35:47,893 | 39 | Minus: -1
+INFO | app | 2023-04-03 23:35:47,894 | 41 | Multiple: 2
+INFO | app | 2023-04-03 23:35:47,894 | 43 | Division: 0.5
+INFO | app.save_logs | 2023-04-03 23:36:24,530 | 47 | start_calculating 1 and 2
+INFO | app | 2023-04-03 23:36:24,555 | 37 | Sum: 3
+INFO | app | 2023-04-03 23:36:24,555 | 39 | Minus: -1
+INFO | app | 2023-04-03 23:36:24,556 | 41 | Multiple: 2
+INFO | app | 2023-04-03 23:36:24,556 | 43 | Division: 0.5
+INFO | app.save_logs | 2023-04-03 23:36:29,763 | 47 | start_calculating 1 and 2
+INFO | app | 2023-04-03 23:36:29,790 | 37 | Sum: 3
+INFO | app | 2023-04-03 23:36:29,790 | 39 | Minus: -1
+INFO | app | 2023-04-03 23:36:29,790 | 41 | Multiple: 2
+INFO | app | 2023-04-03 23:36:29,791 | 43 | Division: 0.5
+INFO | app.save_logs | 2023-04-03 23:37:06,353 | 47 | start_calculating 1 and 2
+INFO | app | 2023-04-03 23:37:06,380 | 37 | Sum: 3
+INFO | app | 2023-04-03 23:37:06,380 | 39 | Minus: -1
+INFO | app | 2023-04-03 23:37:06,380 | 41 | Multiple: 2
+INFO | app | 2023-04-03 23:37:06,381 | 43 | Division: 0.5
+INFO | app.save_logs | 2023-04-03 23:37:25,854 | 47 | start_calculating 1 and 2
+INFO | app | 2023-04-03 23:37:25,882 | 37 | Sum: 3
+INFO | app | 2023-04-03 23:37:25,883 | 39 | Minus: -1
+INFO | app | 2023-04-03 23:37:25,883 | 41 | Multiple: 2
+INFO | app | 2023-04-03 23:37:25,883 | 43 | Division: 0.5
+INFO | app.save_logs | 2023-04-03 23:37:39,466 | 47 | start_calculating 1 and 2
+INFO | app | 2023-04-03 23:37:39,491 | 37 | Sum: 3
+INFO | app | 2023-04-03 23:37:39,491 | 39 | Minus: -1
+INFO | app | 2023-04-03 23:37:39,493 | 41 | Multiple: 2
+INFO | app | 2023-04-03 23:37:39,493 | 43 | Division: 0.5
+INFO | app.save_logs | 2023-04-03 23:38:26,423 | 47 | start_calculating 1 and 2
+INFO | app | 2023-04-03 23:38:26,448 | 37 | Sum: 3
+INFO | app | 2023-04-03 23:38:26,448 | 39 | Minus: -1
+INFO | app | 2023-04-03 23:38:26,448 | 41 | Multiple: 2
+INFO | app | 2023-04-03 23:38:26,449 | 43 | Division: 0.5
+INFO | app.save_logs | 2023-04-03 23:39:49,544 | 47 | start_calculating 1 and 2
+INFO | app | 2023-04-03 23:39:49,570 | 37 | Sum: 3
+INFO | app | 2023-04-03 23:39:49,570 | 39 | Minus: -1
+INFO | app | 2023-04-03 23:39:49,571 | 41 | Multiple: 2
+INFO | app | 2023-04-03 23:39:49,571 | 43 | Division: 0.5
+INFO | app.save_logs | 2023-04-03 23:40:18,608 | 47 | start_calculating 1 and 2
+INFO | app | 2023-04-03 23:40:18,632 | 37 | Sum: 3
+INFO | app | 2023-04-03 23:40:18,632 | 39 | Minus: -1
+INFO | app | 2023-04-03 23:40:18,633 | 41 | Multiple: 2
+INFO | app | 2023-04-03 23:40:18,633 | 43 | Division: 0.5
+INFO | app.save_logs | 2023-04-03 23:40:23,791 | 47 | start_calculating 1 and 2
+INFO | app | 2023-04-03 23:40:23,818 | 37 | Sum: 3
+INFO | app | 2023-04-03 23:40:23,818 | 39 | Minus: -1
+INFO | app | 2023-04-03 23:40:23,819 | 41 | Multiple: 2
+INFO | app | 2023-04-03 23:40:23,819 | 43 | Division: 0.5
+INFO | app.save_logs | 2023-04-03 23:46:30,040 | 47 | start_calculating 1 and 2
+INFO | app | 2023-04-03 23:46:30,066 | 37 | Sum: 3
+INFO | app | 2023-04-03 23:46:30,067 | 39 | Minus: -1
+INFO | app | 2023-04-03 23:46:30,067 | 41 | Multiple: 2
+INFO | app | 2023-04-03 23:46:30,067 | 43 | Division: 0.5
+INFO | app.save_logs | 2023-04-03 23:46:39,378 | 47 | start_calculating 1 and 2
+INFO | app | 2023-04-03 23:46:39,416 | 37 | Sum: 3
+INFO | app | 2023-04-03 23:46:39,416 | 39 | Minus: -1
+INFO | app | 2023-04-03 23:46:39,416 | 41 | Multiple: 2
+INFO | app | 2023-04-03 23:46:39,416 | 43 | Division: 0.5
+INFO | app.save_logs | 2023-04-03 23:47:36,262 | 47 | start_calculating 1 and 2
+INFO | app | 2023-04-03 23:47:36,286 | 37 | Sum: 3
+INFO | app | 2023-04-03 23:47:36,286 | 39 | Minus: -1
+INFO | app | 2023-04-03 23:47:36,286 | 41 | Multiple: 2
+INFO | app | 2023-04-03 23:47:36,287 | 43 | Division: 0.5
+INFO | app | 2023-04-03 23:48:59,671 | 37 | Sum: 3
+INFO | app | 2023-04-03 23:48:59,671 | 39 | Minus: -1
+INFO | app | 2023-04-03 23:48:59,671 | 41 | Multiple: 2
+INFO | app | 2023-04-03 23:48:59,672 | 43 | Division: 0.5
+INFO | app | 2023-04-03 23:50:57,488 | 37 | Sum: 3
+INFO | app | 2023-04-03 23:50:57,488 | 39 | Minus: -1
+INFO | app | 2023-04-03 23:50:57,489 | 41 | Multiple: 2
+INFO | app | 2023-04-03 23:50:57,489 | 43 | Division: 0.5
+INFO | app | 2023-04-04 00:00:44,122 | 37 | Sum: 3
+INFO | app | 2023-04-04 00:00:44,122 | 39 | Minus: -1
+INFO | app | 2023-04-04 00:00:44,122 | 41 | Multiple: 2
+INFO | app | 2023-04-04 00:00:44,123 | 43 | Division: 0.5
